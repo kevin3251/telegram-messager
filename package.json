@@ -1,0 +1,13 @@
+{
+  "name": "telegram-messager",
+  "version": "0.0.1",
+  "description": "The telegram message sender ",
+  "main": "index.js",
+  "author": "Kevin Chueh",
+  "license": "MIT",
+  "dependencies": {
+    "form-data": "^2.3.2",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.5"
+  }
+}
